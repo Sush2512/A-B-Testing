@@ -1,4 +1,4 @@
-# Designing Eniac's A/B Test
+# Eniac's A/B Test
 
 ## Summary
 This project focuses on enhancing Eniac’s website user experience through A/B testing to increase conversions and boost iPhone 13 sales. By evaluating different designs of the "SHOP NOW" button, we aim to identify which version drives the highest click-through rate (CTR).
